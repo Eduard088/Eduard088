@@ -1,133 +1,209 @@
-<h1 align="center">Hola, soy Eduardo Alexander Barea Poot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">¡Hola! Soy Eduardo Barea 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%233498DB&size=22&center=true&vCenter=true&width=800&height=80&lines=Politólogo+%7C+Ciencia+de+Datos+%7C+Investigación+Cuantitativa;Especialista+en+Python%2C+R+y+Visualización+de+Datos;Transformando+datos+complejos+en+instrumentos+estratégicos">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&height=60&lines=Politólogo+%7C+Científico+de+Datos;Analista+de+Datos+%26+Machine+Learning;Python+%E2%80%A2+R+%E2%80%A2+SQL+%E2%80%A2+FastAPI;Decisiones+basadas+en+evidencia;Convirtiendo+datos+en+estrategia" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eduard088&label=Visitas%20al%20perfil&color=7AA2F7&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/github/followers/Eduard088?label=Seguidores&style=flat-square&color=BB9AF7" alt="Seguidores de GitHub" />
+  <img src="https://img.shields.io/badge/Mérida%2C%20Yucatán-México-E0AF68?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" />
+</p>
+
+<p align="center">
+  <a href="mailto:eduardobareapoot@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="https://github.com/Eduard088"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br>
+
+## 🧭 Sobre mí
+
+<img align="right" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/gif3.gif" width="280">
+
+- 🏛️ Politólogo egresado de la **Universidad Modelo** (Mérida, Yuc.), especializado en Ciencias Políticas y Relaciones Internacionales.
+- 🏆 Reconocido con el **mejor promedio de mi generación** en la licenciatura (2025).
+- 🇲🇽 Experiencia en el sector público: prácticas profesionales en la **Secretaría de Relaciones Exteriores (SRE)** y servicio social en el **H. Ayuntamiento de Bokobá**, donde automaticé procesos de información y medí el impacto de programas municipales en la reducción de la desigualdad.
+- 💻 Actualmente trabajo como **freelance en ciencia de datos** para clientes en Estados Unidos: extracción y limpieza de datos, automatización de flujos de trabajo, modelos de Machine Learning, EDA e integración de APIs.
+- 🔬 Combino el análisis del entorno sociopolítico con la minería de datos para transformar información compleja en **instrumentos estratégicos de decisión**.
+- 🌎 Español nativo · Inglés fluido.
+- 📫 Contáctame en **eduardobareapoot@outlook.com**
+
+<br clear="right">
+
+## 🧩 Mi enfoque
+
+Así es como suelo pensar un problema, desde la pregunta sociopolítica hasta la decisión basada en evidencia:
+
+```mermaid
+flowchart LR
+    A["🗳️ Fenómeno<br/>socio-político"] --> B["🔍 Recolección<br/>de datos"]
+    B --> C["🧹 Limpieza y<br/>transformación"]
+    C --> D["📊 Análisis y<br/>modelado estadístico"]
+    D --> E["📈 Visualización<br/>interactiva"]
+    E --> F["🎯 Decisión basada<br/>en evidencia"]
+
+    style A fill:#3d2b56,stroke:#bb9af7,color:#c0caf5
+    style B fill:#283457,stroke:#7aa2f7,color:#c0caf5
+    style C fill:#283457,stroke:#7aa2f7,color:#c0caf5
+    style D fill:#283457,stroke:#7aa2f7,color:#c0caf5
+    style E fill:#283457,stroke:#7aa2f7,color:#c0caf5
+    style F fill:#4a3728,stroke:#e0af68,color:#c0caf5
+```
+
+## 🗓️ Trayectoria
+
+```mermaid
+timeline
+    title Trayectoria profesional
+    2019 : Inicio de la Lic. en Ciencias Políticas y RRII — Universidad Modelo
+    2022 : Prácticas profesionales en la SRE
+         : Inicio del servicio social — H. Ayuntamiento de Bokobá
+    2023 : Egreso de la licenciatura
+         : Cierre del servicio social en Bokobá
+    2024 : Inicio como freelance en Ciencia de Datos (EE. UU.)
+    2025 : Proyectos de ML, APIs y automatización
+         : Mejor promedio de la generación
+    2026 : Freelance activo — Ciencia de Datos & Machine Learning
+```
+
+<br>
+
+## 🛠️ Habilidades técnicas
+
+### Lenguajes de programación
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Ciencia de datos, análisis y ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quarto-4051B5?style=for-the-badge&logo=quarto&logoColor=white" />
+</p>
+
+### Visualización de datos
+<p align="left">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/ggplot2-E70488?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Highcharts-0071A4?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
+
+### Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### Herramientas y ofimática
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Office%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+</p>
+
+### Sistemas operativos
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL2-4D4D4D?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22R%22%2C%22SQL%22%2C%22Machine+Learning%22%2C%22Visualizaci%5Cu00f3n+de+datos%22%2C%22APIs+%26+Automatizaci%5Cu00f3n%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel+de+dominio%22%2C%22data%22%3A%5B88%2C82%2C80%2C78%2C90%2C85%5D%2C%22backgroundColor%22%3A%22rgba%28122%2C162%2C247%2C0.25%29%22%2C%22borderColor%22%3A%22%237aa2f7%22%2C%22borderWidth%22%3A2%2C%22pointBackgroundColor%22%3A%22%23bb9af7%22%2C%22pointBorderColor%22%3A%22%23c0caf5%22%2C%22pointRadius%22%3A4%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Nivel+de+dominio+por+%5Cu00e1rea%22%2C%22color%22%3A%22%23c0caf5%22%2C%22font%22%3A%7B%22size%22%3A16%7D%7D%7D%2C%22scales%22%3A%7B%22r%22%3A%7B%22angleLines%22%3A%7B%22color%22%3A%22%23414868%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23414868%22%7D%2C%22pointLabels%22%3A%7B%22color%22%3A%22%23c0caf5%22%2C%22font%22%3A%7B%22size%22%3A12%7D%7D%2C%22ticks%22%3A%7B%22display%22%3Afalse%2C%22backdropColor%22%3A%22transparent%22%7D%2C%22min%22%3A0%2C%22max%22%3A100%7D%7D%7D%7D&bkg=%231a1b27&w=500&h=380&devicePixelRatio=2" alt="Radar de habilidades" width="480"/>
+</p>
+
+<br>
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| 🗳️ **Base de datos electoral** | Base de datos relacional y normalizada sobre los procesos electorales en México. | `FastAPI` `SQL (SQLite)` `Python` |
+| 🤖 **Chatbot INEGI** | Chatbot que consume la API del INEGI para ofrecer información oficial y actualizada a partir de preguntas del usuario. | `Python` `Flask` `API DeepSeek` |
+| ⚖️ **Regresión logística — Defunciones INEGI** | Transformación de datos crudos de las Estadísticas de Defunciones Registradas 2023 y modelo con precisión superior al 70% para predecir factores asociados a homicidios de mujeres. | `Python` `R` `Regresión logística` |
+| 📡 **Consumo API del INEGI** | Scripts para la consulta y descarga de información oficial del Banco de Indicadores y el Banco de Información Económica. | `Python` `APIs REST` |
+
+```mermaid
+pie showData
+    title Stack principal en mis proyectos
+    "Python" : 40
+    "R" : 20
+    "SQL / FastAPI" : 20
+    "Visualización (Plotly · ggplot2 · Highcharts)" : 20
+```
+
+<br>
+
+## 📌 Repositorios fijados
+
+<p align="center">
+  <a href="https://github.com/Eduard088/cookiecutter_personal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduard088&repo=cookiecutter_personal&theme=tokyonight" alt="cookiecutter_personal"/>
+  </a>
+  <a href="https://github.com/Eduard088/Regression_Tesis_ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduard088&repo=Regression_Tesis_ML&theme=tokyonight" alt="Regression_Tesis_ML"/>
+  </a>
+  <a href="https://github.com/Eduard088/Survival_Tesis_ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduard088&repo=Survival_Tesis_ML&theme=tokyonight" alt="Survival_Tesis_ML"/>
+  </a>
+  <a href="https://github.com/Eduard088/Libro-de-Quarto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eduard088&repo=Libro-de-Quarto&theme=tokyonight" alt="Libro-de-Quarto"/>
   </a>
 </p>
 
-<p align="center"> 
-    <a href="https://github.com/Eduard088">
-        <img src="https://komarev.com/ghpvc/?username=Eduard088&label=Visitas+al+Perfil&color=0047AB&style=plastic" alt="Visitas al perfil" /> 
-    </a>
-</p>
-
-## <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="50px"></picture> Sobre mí
-
-<picture><img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px"></picture>
-
-Combino el análisis del entorno sociopolítico con la minería de datos para impulsar la toma de decisiones basada en evidencia. Me apasiona el desarrollo de modelos estadísticos que aporten claridad a fenómenos y problemáticas sociales.
-
-- 🎓 **Educación:** Licenciado en Ciencias Políticas y Relaciones Internacionales por la Universidad Modelo (Reconocimiento al Mejor Promedio de la Generación 2019-2023).
-- ⚙️ **Entorno de Trabajo:** Fiel usuario de WSL2 (Ubuntu), terminal Warp y Cursor IDE para la creación de mis proyectos.
-- 📊 **Visualización y Reportes:** Construyo dashboards y presentaciones académicas utilizando Quarto, revealjs y bibliotecas interactivas como Highcharts.
-- 💡 **Intereses:** Políticas públicas, análisis espacial, machine learning y automatización de procesos.
-
 <br>
 
-## <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Connect-with-me.gif" width="100px"></picture> Conecta conmigo
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-    <a href="mailto:eduardobareapoot@outlook.com"><img src="https://img.shields.io/badge/Email-eduardobareapoot%40outlook.com-%230078D4.svg?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/Eduard088"><img src="https://img.shields.io/badge/GitHub-Eduard088-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://wa.me/529903494888"><img src="https://img.shields.io/badge/WhatsApp-990_349_4888-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduard088&show_icons=true&count_private=true&locale=es&theme=tokyonight&hide_border=true" alt="Estadísticas de Eduard088" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard088&langs_count=8&layout=compact&locale=es&theme=tokyonight&hide_border=true" alt="Lenguajes principales" height="200px"/>
 </p>
 
-<br>
-
-## 🛠️ Habilidades Técnicas
-
-### <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif" width="50px"></picture> Lenguajes de Programación
-<p align="center"> 
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  &emsp;
-  <img alt="R" src="https://img.shields.io/badge/R%20-%23276DC3.svg?style=plastic&logo=r&logoColor=white">
-  &emsp;
-  <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%234479A1.svg?style=plastic&logo=mysql&logoColor=white">
-</p>
-
-### <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Software_Tools.gif" width="50px"></picture> Ciencia de Datos & Visualización
 <p align="center">
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white"> &emsp;
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white"> &emsp;
-  <img alt="Polars" src="https://img.shields.io/badge/Polars-%23CD792C.svg?style=plastic&logo=polars&logoColor=white"> &emsp;
-  <img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-%2314354C.svg?style=plastic&logo=r&logoColor=white"> &emsp;
-  <img alt="Highcharts" src="https://img.shields.io/badge/Highcharts-%23000000.svg?style=plastic&logo=highcharts&logoColor=white"> &emsp;
-  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white"> &emsp;
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=pandas&logoColor=black"> &emsp;
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=plastic&logo=python&logoColor=white"> &emsp;
-  <img alt="ggplot2" src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?style=plastic&logo=r&logoColor=white">
+  <img src="https://streak-stats.demolab.com/?user=Eduard088&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones"/>
 </p>
 
-### <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/OS.gif" width="50px"></picture> Herramientas & Entorno
 <p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"> &emsp;
-  <img alt="Quarto" src="https://img.shields.io/badge/Quarto-%234B90D8.svg?style=plastic&logo=r&logoColor=white"> &emsp;
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white"> &emsp;
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white"> &emsp;
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"> &emsp;
-  <img alt="WSL2" src="https://img.shields.io/badge/WSL2-%230078D6.svg?style=plastic&logo=windows&logoColor=white">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduard088&theme=tokyo-night&hide_border=true&area=true" alt="Actividad reciente"/>
 </p>
 
-<br>
-
-## 🔬 Proyectos Destacados e Investigación
-
 <details>
-  <summary><h3>📊 Análisis Espacial "Va y Ven" Mérida</h3></summary>
-  Ejecución de un proyecto de investigación de agrupamiento espacial (clustering) que evalúa la movilidad urbana y la accesibilidad peatonal del sistema de transporte público "Va y Ven" en Mérida. Utiliza una metodología que combina datos espaciales, el Censo 2020 y el DENUE de mayo 2026 para analizar la equidad en el tránsito.
-</details>
-
-<details>
-  <summary><h3>⚖️ Métricas de Paridad de Género en Congresos (2018-2023)</h3></summary>
-  Desarrollo de un artículo de investigación académica que analiza métricas de paridad de género en congresos locales mexicanos. El estudio plantea variables e hipótesis fundamentadas utilizando datos electorales de la base de datos del SICEEN.
-</details>
-
-<details>
-  <summary><h3>🤖 Chatbot con DeepSeek y API del INEGI</h3></summary>
-  Chatbot desarrollado con Python y Flask que consume la API de DeepSeek y la API del INEGI para ofrecer respuestas e información oficial, actualizada y procesada directamente a consultas ciudadanas.
-</details>
-
-<details>
-  <summary><h3>📈 Modelo de Predicción sobre Defunciones</h3></summary>
-  Transformación de datos crudos a partir de las Estadísticas de Defunciones Registradas 2023 del INEGI. Implementación de una regresión logística con una precisión superior al 70% orientada a predecir factores asociados a homicidios de mujeres.
-</details>
-
-<details>
-  <summary><h3>🏛️ Reforma Política 2014 en México</h3></summary>
-  Tesis de licenciatura enfocada en explorar los impactos institucionales de la reforma política de 2014 en el sistema político mexicano.
-</details>
-
-<br>
-
-## <picture><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width="50px"></picture> Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduard088&theme=tokyonight_duo&hide_border=true" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Estadísticas de Eduardo" src="https://github-readme-stats.vercel.app/api?username=Eduard088&show_icons=true&count_private=true&locale=es&theme=tokyonight&layout=compact&hide_border=true" height="200px"/>
+<summary><h3>🏆 Trofeos de GitHub</h3></summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Eduard088&theme=tokyonight&layout=compact&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trofeos"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eduard088&langs_count=6&show_icons=true&locale=es&theme=tokyonight&hide_border=true" alt="Lenguajes principales" height="200px"/>
-</div>
+</p>
+</details>
+
+<br>
+
+## 🎓 Reconocimientos
+
+- 🥇 **Mejor promedio de la generación**, Lic. en Ciencias Políticas y Relaciones Internacionales — Universidad Modelo, Mérida, Yuc. (2025)
 
 <br>
 
 ---
-<p align="center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
-        <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-    </a>
-</p>
-
-## 🐍 Mis Contribuciones en Código
 
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduard088/Eduard088/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduard088/Eduard088/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eduard088/Eduard088/output/github-contribution-grid-snake.svg">
-    </picture>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=motivational" alt="Frase motivacional"/>
+  </a>
 </p>
+
+<p align="center"><i>Gracias por visitar mi perfil — siempre abierto a colaborar en proyectos donde los datos y las políticas públicas se encuentren. 🤝</i></p>
